@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(250, 255, 255)
+}
+
+hr {
+    border-style: none;
+    border-bottom-style: none;
+    border-color: rgb(255, 255, 255);
+    border-width: 5px;
+    width: 20%;
+}
+
+h1 {
+    color: #98B4AA;
+}
+
+h2 {
+    color: #98B4AA;
+}
+
+h3 {
+    color: #98B4AA
+}
