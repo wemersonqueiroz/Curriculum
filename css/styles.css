@@ -124,6 +124,7 @@ a:hover {
 .email-call {}
 
 .btn {
+    font-family: "Montserrat Alternates", Helvetica, Arial, sans-serif;
     margin-top: 20px auto 20px auto;
     background: #11999E;
     background-image: -webkit-linear-gradient(top, #11999E, #2980b9);
@@ -134,7 +135,6 @@ a:hover {
     -webkit-border-radius: 12;
     -moz-border-radius: 12;
     border-radius: 12px;
-    font-family: Arial;
     color: #ffffff;
     font-size: 19px;
     padding: 10px 20px 10px 20px;
